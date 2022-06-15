@@ -1,7 +1,7 @@
 # k8s-book-app
 
 
-To create My Own MERN stack Application AND build using docker images and uploded into docker hub in public repo
+To create My Own Book-order application using MERN stack Application AND build using docker images and uploded into docker hub in public repo
 
 https://hub.docker.com/u/krishnansai
 
